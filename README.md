@@ -1,4 +1,4 @@
-### Hi there, Iam Jawahar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+### Hi there, I am Jawahar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
 - 🔭 I’m currently working 
 - 🌱 I’m currently learning Python and web development
